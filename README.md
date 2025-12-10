@@ -1,6 +1,6 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-## Name: JWALAMUKHI S
-## Reg.No: 212223040079
+## Name: Vasanthi Sivasankar
+## Reg.No: 212223040234
 
 ## Aim:
 To move the files between virtual machine.
